@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/vtyagi84621" target="blank"><img src="https://img.shields.io/twitter/follow/vtyagi84621?logo=twitter&style=for-the-badge" alt="vtyagi84621" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vtyagi84621" target="_blank"><img src="https://img.shields.io/twitter/follow/vtyagi84621?logo=twitter&style=for-the-badge" alt="vtyagi84621" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
