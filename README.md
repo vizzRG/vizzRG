@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vishaltyagi9837@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mGeyxcfO6H1cUwZ7h9eE5ybjxDX8Oawk/view?usp=drive_link](https://drive.google.com/file/d/1mGeyxcfO6H1cUwZ7h9eE5ybjxDX8Oawk/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uMWMprWGAzkgM6WKNjTVrgqMPYZHY79J/view?usp=drive_link)
 
 
 ## 🌐 Socials:
