@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizzrg&label=Profile%20views&color=0e75b6&style=flat" alt="vizzrg" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vtyagi84621" target="_blank"><img src="https://img.shields.io/twitter/follow/vtyagi84621?logo=twitter&style=for-the-badge" alt="vtyagi84621" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **AI Integration**
 
 - 👯 I’m looking to collaborate on **Open Source Real World Projects**
 
