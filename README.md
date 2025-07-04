@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Real World Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
+- 💬 Ask me about **FullStack Development**
 
 - 📫 How to reach me **vishaltyagi9837@gmail.com**
 
